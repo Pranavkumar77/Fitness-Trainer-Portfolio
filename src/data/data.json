@@ -1,0 +1,155 @@
+{
+  "Header": {
+    "title": "Cheeri Fit",
+    "paragraph": "Houu Plan Lhy aani aamle paisa dya naitr bhok mha jaa tumni mayni gand"
+  },
+  "About": {
+    "paragraph": "A personal trainer with four years of experience in working with clients across the world who have metabolic issues is a highly skilled and experienced professional. They have a deep understanding of the scientific principles behind training and nutrition, and have successfully helped many clients achieve their fitness goals despite the challenges posed by their metabolic issues. Their expertise in working with clients from different cultural backgrounds and with diverse health concerns has given them a wealth of knowledge and a broad perspective on health and fitness. This personal trainer is likely to be compassionate and empathetic, understanding the difficulties that clients with metabolic issues may face. They are likely to use a highly personalized approach, tailoring each training and nutrition plan to the specific needs and limitations of each individual client. With their experience in dealing with a wide range of metabolic issues, they are well-equipped to provide effective and safe solutions to help their clients achieve their goals. Their scientific approach and attention to detail, combined with their caring and supportive nature, make them an excellent choice for anyone looking to improve their health and fitness.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "name": "Personal Training",
+      "text": "Our certified personal trainers have years of experience in working with clients of all ages and fitness levels. We offer one-on-one and small group training sessions that are tailored to your goals, lifestyle, and limitations. Our personalized training programs include resistance training, cardio, mobility and flexibility training, and more."
+    },
+    {
+      "name": "Nutrition",
+      "text": "Our registered dietitians offer personalized nutrition plans that are customized to your individual needs, preferences, and goals. We provide evidence-based nutrition guidance to help you improve your overall health, manage your weight, and achieve optimal athletic performance. We also offer nutrition coaching sessions to help you stay motivated and accountable to your goals"
+    },
+    {
+      "name": "Metabolic Disorder Reversal",
+      "text": "Our metabolic disorder reversal program is designed to help individuals who are struggling with metabolic disorders, such as diabetes, high blood pressure, and high cholesterol. Our team of experienced professionals will work with you to develop a comprehensive program that includes personalized nutrition and training plans, along with lifestyle modifications, to help you reverse your metabolic disorder and improve your overall health."
+    },
+    {
+      "name": "Lifestyle Management",
+      "text": "Our lifestyle management program is designed to help you achieve a healthier and more balanced lifestyle. We offer stress management techniques, sleep hygiene education, and customized nutrition and training plans to help you manage your stress levels and improve your overall quality of life. Our goal is to help you achieve lasting lifestyle changes that will support your long-term health and wellness."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Ruchir Patil",
+      "job": "Senior Fitness Coach"
+    }
+  ],
+  "Contact": {
+    "address": "Pune, Maharashtra, India",
+    "phone": "+91-9172485734",
+    "email": "ruchirpatil00@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "https://twitter.com/Ruchirpatil13?t=WcthyZWM9t1RGxLykgLJLA&s=09",
+    "instagram": "https://www.instagram.com/invites/contact/?i=lkkk8bnh4r9a&utm_content=1yg2zki"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
